@@ -1,0 +1,17 @@
+dnsenum VERSION:1.3.1
+[1;34m
+-----   juice-shop.herokuapp.com   -----
+[0m[1;31m
+
+Host's addresses:
+__________________
+
+[0mjuice-shop.herokuapp.com.                1        IN    A        54.220.192.176
+juice-shop.herokuapp.com.                1        IN    A        54.73.53.134
+juice-shop.herokuapp.com.                1        IN    A        46.137.15.86
+[1;31m
+
+Name Servers:
+______________
+
+[0m
